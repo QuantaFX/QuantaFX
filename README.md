@@ -1,5 +1,5 @@
 # Hi 👋, I'm Archie Facundo Junio
-\
+
 - 📫 How to reach me **archiejuniof@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
