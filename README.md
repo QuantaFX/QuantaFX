@@ -9,6 +9,6 @@
 
 <h3 align="left">Vision Models</h3>
 <p align="left">
-<a href="[https://github.com/QuantaFX](https://universe.roboflow.com/archie-junio-dxv5t)" target="blank"><img align="center" src="https://universe.roboflow.com/#universe-logomark-brand" alt="QuantaFX" height="30" width="40" /></a>
+<a href="[https://github.com/QuantaFX](https://universe.roboflow.com/archie-junio-dxv5t)" target="blank"><img align="center" src="https://drive.google.com/file/d/1v7_6tnh851vn6hTzIDgYhFgy0WPZJIHl/view?usp=drive_link" alt="QuantaFX" height="30" width="40" /></a>
 </p>
 
