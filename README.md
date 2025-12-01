@@ -1,7 +1,5 @@
 # Hi 👋, I'm Archie Facundo Junio
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=QuantaFX&label=Profile views&color=0e75b6&style=flat" alt="QuantaFX" /> </p>
-
+\
 - 📫 How to reach me **archiejuniof@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
